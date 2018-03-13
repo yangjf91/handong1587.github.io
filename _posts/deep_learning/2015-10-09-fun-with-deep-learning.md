@@ -326,6 +326,19 @@ Compressed model is less than 500KB
 
 [https://arxiv.org/abs/1801.01933](https://arxiv.org/abs/1801.01933)
 
+**Face Destylization**
+
+[https://arxiv.org/abs/1802.01237](https://arxiv.org/abs/1802.01237)
+
+**Unsupervised Typography Transfer**
+
+[https://arxiv.org/abs/1802.02595](https://arxiv.org/abs/1802.02595)
+
+**Stereoscopic Neural Style Transfer**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1802.10591](https://arxiv.org/abs/1802.10591)
+
 ## Neural Art On Audio
 
 **MSc AI Project on generative deep networks and neural style transfer for audio**
@@ -666,6 +679,10 @@ Compressed model is less than 500KB
 
 - intro: University of Tokyo
 - arxiv: [https://arxiv.org/abs/1706.06918](https://arxiv.org/abs/1706.06918)
+
+**Interactive Deep Colorization With Simultaneous Global and Local Inputs**
+
+[https://arxiv.org/abs/1801.09083](https://arxiv.org/abs/1801.09083)
 
 # Sounds
 
@@ -1018,6 +1035,17 @@ It is based on Facebook's TorchCraft, which is a bridge between Torch and StarCr
 - intro: Czech Technical University in Prague
 - arxiv: [https://arxiv.org/abs/1801.02193](https://arxiv.org/abs/1801.02193)
 - gihtub: [https://github.com/Games-and-Simulations/sc-docker](https://github.com/Games-and-Simulations/sc-docker)
+
+## DeepLeague
+
+**DeepLeague: leveraging computer vision and deep learning on the League of Legends mini map + giving away a dataset of over 100,000 labeled images to further esports analytics research**
+
+- blog: [https://medium.com/@farzatv/deepleague-leveraging-computer-vision-and-deep-learning-on-the-league-of-legends-mini-map-giving-d275fd17c4e0](https://medium.com/@farzatv/deepleague-leveraging-computer-vision-and-deep-learning-on-the-league-of-legends-mini-map-giving-d275fd17c4e0)
+
+**DeepLeague (Part 2): The Technical Details**
+
+- blog: [https://medium.com/@farzatv/deepleague-part-2-the-technical-details-374439e7e09a](https://medium.com/@farzatv/deepleague-part-2-the-technical-details-374439e7e09a)
+- github: [https://github.com/farzaa/DeepLeague](https://github.com/farzaa/DeepLeague)
 
 # Courses
 

@@ -107,6 +107,10 @@ date: 2015-10-09
 - intro: ISBI 2018
 - arxiv: [https://arxiv.org/abs/1801.02722](https://arxiv.org/abs/1801.02722)
 
+**A Foreground Inference Network for Video Surveillance Using Multi-View Receptive Field**
+
+[https://arxiv.org/abs/1801.06593](https://arxiv.org/abs/1801.06593)
+
 ## U-Net
 
 **U-Net: Convolutional Networks for Biomedical Image Segmentation**
@@ -129,6 +133,10 @@ date: 2015-10-09
 - intro: part of the winning solution (1st out of 735) in the Kaggle: Carvana Image Masking Challenge
 - arxiv: [https://arxiv.org/abs/1801.05746](https://arxiv.org/abs/1801.05746)
 - github: [https://github.com/ternaus/TernausNet](https://github.com/ternaus/TernausNet)
+
+**Piecewise Flat Embedding for Image Segmentation**
+
+[https://arxiv.org/abs/1802.03248](https://arxiv.org/abs/1802.03248)
 
 # Foreground Object Segmentation
 
@@ -157,8 +165,8 @@ date: 2015-10-09
 - github: [https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn](https://github.com/BVLC/caffe/wiki/Model-Zoo#fcn)
 - github: [https://github.com/MarvinTeichmann/tensorflow-fcn](https://github.com/MarvinTeichmann/tensorflow-fcn)
 - github(Chainer): [https://github.com/wkentaro/fcn](https://github.com/wkentaro/fcn)
-- github(PyTorch): [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
-- github(Tensorflow): [https://github.com/shekkizh/FCN.tensorflow](https://github.com/shekkizh/FCN.tensorflow)
+- github: [https://github.com/wkentaro/pytorch-fcn](https://github.com/wkentaro/pytorch-fcn)
+- github: [https://github.com/shekkizh/FCN.tensorflow](https://github.com/shekkizh/FCN.tensorflow)
 - notes: [http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/](http://zhangliliang.com/2014/11/28/paper-note-fcn-segment/)
 
 **From Image-level to Pixel-level Labeling with Convolutional Networks**
@@ -217,6 +225,13 @@ date: 2015-10-09
 
 - intro: Google. DeepLabv3
 - arxiv: [https://arxiv.org/abs/1706.05587](https://arxiv.org/abs/1706.05587)
+
+## DeepLabv3+
+
+**Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation**
+
+- intro: Google Inc.
+- arxiv: [https://arxiv.org/abs/1802.02611](https://arxiv.org/abs/1802.02611)
 
 ## CRF-RNN
 
@@ -850,6 +865,15 @@ with built-in awareness of semantically meaningful boundaries. "
 - slides: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_public_version.pdf)
 - poster: [http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf](http://www.ics.uci.edu/~skong2/slides/pixel_embedding_for_grouping_poster.pdf)
 
+**Annotation-Free and One-Shot Learning for Instance Segmentation of Homogeneous Object Clusters**
+
+[https://arxiv.org/abs/1802.00383](https://arxiv.org/abs/1802.00383)
+
+**Path Aggregation Network for Instance Segmentation**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.01534](https://arxiv.org/abs/1803.01534)
+
 # Specific Segmentation
 
 **A CNN Cascade for Landmark Guided Semantic Part Segmentation**
@@ -949,8 +973,6 @@ with built-in awareness of semantically meaningful boundaries. "
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1712.06080](https://arxiv.org/abs/1712.06080)
 
-## MPF-RNN
-
 **Multi-Path Feedback Recurrent Neural Network for Scene Parsing**
 
 - arxiv: [http://arxiv.org/abs/1608.07706](http://arxiv.org/abs/1608.07706)
@@ -1001,6 +1023,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 **Restricted Deformable Convolution based Road Scene Semantic Segmentation Using Surround View Cameras**
 
 [https://arxiv.org/abs/1801.00708](https://arxiv.org/abs/1801.00708)
+
+**Dense Recurrent Neural Networks for Scene Labeling**
+
+[https://arxiv.org/abs/1801.06831](https://arxiv.org/abs/1801.06831)
 
 ## Benchmarks
 
@@ -1076,8 +1102,9 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: OSVOS
 - project: [http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)
 - arxiv: [https://arxiv.org/abs/1611.05198](https://arxiv.org/abs/1611.05198)
-- github: [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
-- github: [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
+- github(official): [https://github.com/kmaninis/OSVOS-caffe](https://github.com/kmaninis/OSVOS-caffe)
+- github(official): [https://github.com/scaelles/OSVOS-TensorFlow](https://github.com/scaelles/OSVOS-TensorFlow)
+- github(official): [https://github.com/kmaninis/OSVOS-PyTorch](https://github.com/kmaninis/OSVOS-PyTorch)
 
 **Video Object Segmentation Without Temporal Information**
 
@@ -1160,6 +1187,11 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 - intro: Facebook AI Research (FAIR) & Heidelberg University
 - arxiv: [https://arxiv.org/abs/1801.00868](https://arxiv.org/abs/1801.00868)
 
+**Efficient Video Object Segmentation via Network Modulation**
+
+- intro: Snap Inc. & Northwestern University & Google Inc.
+- arxiv: [https://arxiv.org/abs/1802.01218](https://arxiv.org/abs/1802.01218)
+
 ## Challenge
 
 **DAVIS: Densely Annotated VIdeo Segmentation**
@@ -1226,6 +1258,10 @@ ranked 1st place in ImageNet Scene Parsing Challenge 2016
 [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?cls=mean&challengeid=11&compid=6)
 
 # Blogs
+
+**Mobile Real-time Video Segmentation**
+
+[https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
 
 **Deep Learning for Natural Image Segmentation Priors**
 

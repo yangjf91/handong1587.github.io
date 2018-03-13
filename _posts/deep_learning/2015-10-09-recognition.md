@@ -138,6 +138,10 @@ date: 2015-10-09
 - intro: The University of Tokyo & RIKEN
 - arxiv: [https://arxiv.org/abs/1711.10284](https://arxiv.org/abs/1711.10284)
 
+**Deep Predictive Coding Network for Object Recognition**
+
+[https://arxiv.org/abs/1802.04762](https://arxiv.org/abs/1802.04762)
+
 # Multi-object Recognition
 
 **Multiple Object Recognition with Visual Attention**
@@ -335,6 +339,10 @@ date: 2015-10-09
 - intro: IEEE Signal Processing Letters
 - arxiv: [https://arxiv.org/abs/1709.09429](https://arxiv.org/abs/1709.09429)
 
+**Food recognition and recipe analysis: integrating visual content, context and external knowledge**
+
+[https://arxiv.org/abs/1801.07230](https://arxiv.org/abs/1801.07230)
+
 # Attribute Recognition
 
 **Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios**
@@ -442,6 +450,11 @@ date: 2015-10-09
 **Semantic Clustering for Robust Fine-Grained Scene Recognition**
 
 - arxiv: [http://arxiv.org/abs/1607.07614](http://arxiv.org/abs/1607.07614)
+
+**Scene recognition with CNNs: objects, scales and dataset bias**
+
+- intro: CVPR 2016
+- arxiv: [https://arxiv.org/abs/1801.06867](https://arxiv.org/abs/1801.06867)
 
 ## Leaderboard
 

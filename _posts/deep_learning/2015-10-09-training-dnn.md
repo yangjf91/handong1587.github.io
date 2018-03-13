@@ -181,6 +181,10 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1710.05941](https://arxiv.org/abs/1710.05941)
 - reddit: [https://www.reddit.com/r/MachineLearning/comments/77gcrv/d_swish_is_not_performing_very_well/](https://www.reddit.com/r/MachineLearning/comments/77gcrv/d_swish_is_not_performing_very_well/)
 
+**Deep Learning with Data Dependent Implicit Activation Function**
+
+[https://arxiv.org/abs/1802.00168](https://arxiv.org/abs/1802.00168)
+
 ## Series on Initialization of Weights for DNN
 
 **Initialization Of Feedfoward Networks**
@@ -297,6 +301,10 @@ date: 2015-10-09
 - intro: Mapillary Research
 - arxiv: [https://arxiv.org/abs/1712.02616](https://arxiv.org/abs/1712.02616)
 - github: [https://github.com/mapillary/inplace_abn](https://github.com/mapillary/inplace_abn)
+
+**Batch Kalman Normalization: Towards Training Deep Neural Networks with Micro-Batches**
+
+[https://arxiv.org/abs/1802.03133](https://arxiv.org/abs/1802.03133)
 
 ### Backward pass of BN
 
@@ -458,6 +466,10 @@ date: 2015-10-09
 - blog: [https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221](https://medium.com/@singlasahil14/a-new-kind-of-pooling-layer-for-faster-and-sharper-convergence-1043c756a221)
 - github: [https://github.com/singlasahil14/sortpool2d](https://github.com/singlasahil14/sortpool2d)
 
+**Statistically Motivated Second Order Pooling**
+
+[https://arxiv.org/abs/1801.07492](https://arxiv.org/abs/1801.07492)
+
 # Batch Size
 
 **Online Batch Selection for Faster Training of Neural Networks**
@@ -498,6 +510,11 @@ date: 2015-10-09
 
 - intro: UC Berkeley & NVIDIA
 - arxiv: [https://arxiv.org/abs/1712.02029](https://arxiv.org/abs/1712.02029)
+
+**Hessian-based Analysis of Large Batch Training and Robustness to Adversaries**
+
+- intro: UC Berkeley & University of Texas
+- arxiv: [https://arxiv.org/abs/1802.08241](https://arxiv.org/abs/1802.08241)
 
 # Optimization Methods
 
@@ -827,6 +844,10 @@ date: 2015-10-09
 - intro: University of Notre Dame & University of Science and Technology of China
 - arxiv: [https://arxiv.org/abs/1612.01490](https://arxiv.org/abs/1612.01490)
 
+**ShakeDrop regularization**
+
+[https://arxiv.org/abs/1802.02375](https://arxiv.org/abs/1802.02375)
+
 # Gradient Descent
 
 **RMSProp: Divide the gradient by a running average of its recent magnitude**
@@ -1110,6 +1131,15 @@ date: 2015-10-09
 - keywords: eATure TransfEr Network (FATTEN)
 - arxiv: [https://arxiv.org/abs/1801.04356](https://arxiv.org/abs/1801.04356)
 
+**Visual Data Augmentation through Learning**
+
+[https://arxiv.org/abs/1801.06665](https://arxiv.org/abs/1801.06665)
+
+**Data Augmentation Generative Adversarial Networks**
+
+- arxiv: [https://arxiv.org/abs/1711.04340](https://arxiv.org/abs/1711.04340)
+- github: [https://github.com/AntreasAntoniou/DAGAN](https://github.com/AntreasAntoniou/DAGAN)
+
 ## Imbalanced Datasets
 
 **Investigation on handling Structured & Imbalanced Datasets with Deep Learning**
@@ -1345,6 +1375,10 @@ date: 2015-10-09
 **The Robust Manifold Defense: Adversarial Training using Generative Models**
 
 [https://arxiv.org/abs/1712.09196](https://arxiv.org/abs/1712.09196)
+
+**DeepDefense: Training Deep Neural Networks with Improved Robustness**
+
+[https://arxiv.org/abs/1803.00404](https://arxiv.org/abs/1803.00404)
 
 # Incremental Training
 

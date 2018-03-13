@@ -207,6 +207,25 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1801.05678](https://arxiv.org/abs/1801.05678)
 
+**ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
+
+- arxiv: [https://arxiv.org/abs/1801.07698](https://arxiv.org/abs/1801.07698)
+- github: [https://github.com/deepinsight/insightface](https://github.com/deepinsight/insightface)
+
+**CosFace: Large Margin Cosine Loss for Deep Face Recognition**
+
+[https://arxiv.org/abs/1801.09414](https://arxiv.org/abs/1801.09414)
+
+**Ring loss: Convex Feature Normalization for Face Recognition**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.00130](https://arxiv.org/abs/1803.00130)
+
+**Pose-Robust Face Recognition via Deep Residual Equivariant Mapping**
+
+- intro: CVPR 2018. CUHK & SenseTime Research
+- arxiv: [https://arxiv.org/abs/1803.00839](https://arxiv.org/abs/1803.00839)
+
 # Video Face Recognition
 
 **Attention-Set based Metric Learning for Video Face Recognition**
@@ -276,6 +295,12 @@ date: 2015-10-09
 **Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks**
 
 [https://arxiv.org/abs/1711.06753](https://arxiv.org/abs/1711.06753)
+
+**Brute-Force Facial Landmark Analysis With A 140,000-Way Classifier**
+
+- intro: AAAI 2018
+- arxiv: [https://arxiv.org/abs/1802.01777](https://arxiv.org/abs/1802.01777)
+- github: [https://github.com/mtli/BFFL](https://github.com/mtli/BFFL)
 
 # Projects
 
