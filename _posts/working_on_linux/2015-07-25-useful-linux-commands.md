@@ -12,7 +12,7 @@ date: 2015-07-25
 |.tar         |  tar cvf FileName.tar DirName       |  tar xvf FileName.tar       |
 |.gz          |  gzip FileName                      |  gunzip FileName.gz         |
 |.gz          |  gzip FileName                      |  gzip -d FileName.gz        |
-|.tar.gz, .tgz|  tar zcvf FileName.tar.gz DirName   |  tar zxvf FileName.tar.gz   |
+|.tar.gz, .tgz|  tar -zcvf FileName.tar.gz DirName  |  tar zxvf FileName.tar.gz   |
 |.bz2         |  bzip2 -z FileName                  |  bzip2 -d FileName.bz2      |
 |.bz2         |                                     |  bunzip2 FileName.bz2       |
 |.tar.bz2     |  tar jcvf FileName.tar.bz2 DirName  |  tar jxvf FileName.tar.bz2  |
@@ -78,7 +78,8 @@ tar xf file.tar.gz -C /root/Desktop/folder
 |                                                   | free -m                 |
 | Print pid info                                    | ps aux \| grep 'target_pid' |
 | Print graphics card version                       | nvcc --version          |
-| Print graphics card GPU info                      | nvidia-smi              |
+| Print graphics card GPU info                      | lspci  | grep -i vga    |
+| Print graphics card GPU running info              | nvidia-smi              |
 | Print graphics card GPU info dynamically          | watch -n0.1 nvidia-smi  |
 | Print disk free space                             | df -h                   |
 |                                                   | df -hl                  |
@@ -618,6 +619,14 @@ nohup ./runGenerareSSProposals.sh > runGenerareSSProposals_${time}.log 2>&1 &
 echo $! > save_runGenerareSSProposals_val_pid.txt
 ```
 
+# Hadoop
+
+**Delete a directory from Hadoop cluster**
+
+```
+hadoop fs -rm -r -f /user/the/path/to/your/dir
+```
+
 # Others
 
 **Hotkeys to speed up Linux CLI navigation:**
@@ -780,5 +789,5 @@ perl -lne '$seen{$_}++ and next or print;' data.txt > output.txt
 
 ```
 str="/aaaa/bbbbb/cccc"
-echo $str | tr "/" "\"
+echo $str | tr "/" "\n"
 ```

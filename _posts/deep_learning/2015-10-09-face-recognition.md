@@ -7,18 +7,15 @@ date: 2015-10-09
 
 # Papers
 
-## DeepID
-
 **Deep Learning Face Representation from Predicting 10,000 Classes**
 
-- intro: CVPR 2014
+- intro: CVPR 2014. DeepID
 - paper: [http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf](http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf)
 - github: [https://github.com/stdcoutzyx/DeepID_FaceClassify](https://github.com/stdcoutzyx/DeepID_FaceClassify)
 
-## DeepID2
-
 **Deep Learning Face Representation by Joint Identification-Verification**
 
+- intro: DeepID2
 - paper: [http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons](http://papers.nips.cc/paper/5416-analog-memories-in-a-balanced-rate-based-network-of-e-i-neurons)
 
 **基于Caffe的DeepID2实现**
@@ -27,15 +24,12 @@ date: 2015-10-09
 - 2. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%EF%BC%89.html)
 - 3. [http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html](http://www.miaoerduo.com/deep-learning/%E5%9F%BA%E4%BA%8Ecaffe%E7%9A%84deepid2%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%8B%EF%BC%89.html)
 
-## DeepID2+
-
 **Deeply learned face representations are sparse, selective, and robust**
 
+- intro: DeepID2+
 - arxiv: [http://arxiv.org/abs/1412.1265](http://arxiv.org/abs/1412.1265)
 - video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
 - mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
-
-## MobileID
 
 **MobileID: Face Model Compression by Distilling Knowledge from Neurons**
 
@@ -44,8 +38,6 @@ date: 2015-10-09
 - project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html)
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
 - github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
-
-## DeepFace
 
 **DeepFace: Closing the Gap to Human-Level Performance in Face Verification**
 
@@ -113,6 +105,11 @@ date: 2015-10-09
 - github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
 - github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
 
+**Deep Face Recognition with Center Invariant Loss**
+
+- intro: ACM MM Workshop
+- paper: [http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf](http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf)
+
 **How Image Degradations Affect Deep CNN-based Face Recognition?**
 
 - arxiv: [http://arxiv.org/abs/1608.05246](http://arxiv.org/abs/1608.05246)
@@ -136,6 +133,10 @@ date: 2015-10-09
 
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr16.pdf)
 
+**DeMeshNet: Blind Face Inpainting for Deep MeshFace Verification**
+
+[https://arxiv.org/abs/1611.05271](https://arxiv.org/abs/1611.05271)
+
 **Range Loss for Deep Face Recognition with Long-tail**
 
 - arxiv: [https://arxiv.org/abs/1611.08976](https://arxiv.org/abs/1611.08976)
@@ -158,11 +159,6 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1704.06369](https://arxiv.org/abs/1704.06369)
 - github: [https://github.com/happynear/NormFace](https://github.com/happynear/NormFace)
-
-**Deep Face Recognition with Center Invariant Loss**
-
-- intro: ACM MM Workshop
-- paper: [http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf](http://www1.ece.neu.edu/~yuewu/files/2017/twu024.pdf)
 
 **SphereFace: Deep Hypersphere Embedding for Face Recognition**
 
@@ -205,7 +201,8 @@ date: 2015-10-09
 
 **Face Recognition via Centralized Coordinate Learning**
 
-[https://arxiv.org/abs/1801.05678](https://arxiv.org/abs/1801.05678)
+- intro: centralized coordinate learning (CCL)
+- arxiv: [https://arxiv.org/abs/1801.05678](https://arxiv.org/abs/1801.05678)
 
 **ArcFace: Additive Angular Margin Loss for Deep Face Recognition**
 
@@ -225,12 +222,99 @@ date: 2015-10-09
 
 - intro: CVPR 2018. CUHK & SenseTime Research
 - arxiv: [https://arxiv.org/abs/1803.00839](https://arxiv.org/abs/1803.00839)
+- github: [https://github.com/penincillin/DREAM](https://github.com/penincillin/DREAM)
+
+**Deep Face Recognition: A Survey**
+
+- intro: BUPT
+- arxiv: [https://arxiv.org/abs/1804.06655](https://arxiv.org/abs/1804.06655)
+
+**MobileFaceNets: Efficient CNNs for Accurate Real-time Face Verification on Mobile Devices**
+
+- intro: Beijing Jiaotong University & Watchdata Inc
+- arxiv: [https://arxiv.org/abs/1804.07573](https://arxiv.org/abs/1804.07573)
+
+**DisguiseNet : A Contrastive Approach for Disguised Face Verification in the Wild**
+
+[https://arxiv.org/abs/1804.09669](https://arxiv.org/abs/1804.09669)
+
+**Surveillance Face Recognition Challenge**
+
+[https://arxiv.org/abs/1804.09691](https://arxiv.org/abs/1804.09691)
+
+**Towards Interpretable Face Recognition**
+
+[https://arxiv.org/abs/1805.00611](https://arxiv.org/abs/1805.00611)
+
+**Scalable Angular Discriminative Deep Metric Learning for Face Recognition**
+
+[https://arxiv.org/abs/1804.10899](https://arxiv.org/abs/1804.10899)
+
+**Minimum Margin Loss for Deep Face Recognition**
+
+[https://arxiv.org/abs/1805.06741](https://arxiv.org/abs/1805.06741)
+
+**Wildest Faces: Face Detection and Recognition in Violent Settings**
+
+[https://arxiv.org/abs/1805.07566](https://arxiv.org/abs/1805.07566)
+
+**Deep Imbalanced Learning for Face Recognition and Attribute Prediction**
+
+[https://arxiv.org/abs/1806.00194](https://arxiv.org/abs/1806.00194)
+
+**Accurate and Efficient Similarity Search for Large Scale Face Recognition**
+
+- intro: BUPT
+- arxiv: [https://arxiv.org/abs/1806.00365](https://arxiv.org/abs/1806.00365)
+
+**Face Recognition in Low Quality Images: A Survey**
+
+[https://arxiv.org/abs/1805.11519](https://arxiv.org/abs/1805.11519)
+
+**Low Resolution Face Recognition in the Wild**
+
+[https://arxiv.org/abs/1805.11529](https://arxiv.org/abs/1805.11529)
+
+# Facial Attributes Classification
+
+**A Jointly Learned Deep Architecture for Facial Attribute Analysis and Face Detection in the Wild**
+
+[https://arxiv.org/abs/1707.08705](https://arxiv.org/abs/1707.08705)
+
+**A Deep Cascade Network for Unaligned Face Attribute Classification**
+
+[https://arxiv.org/abs/1709.03851](https://arxiv.org/abs/1709.03851)
+
+**A Deep Face Identification Network Enhanced by Facial Attributes Prediction**
+
+[https://arxiv.org/abs/1805.00324](https://arxiv.org/abs/1805.00324)
+
+**Multi-task Learning of Cascaded CNN for Facial Attribute Classification**
+
+- intro: Xiamen University & Xiamen University of Technology
+- arxiv: [https://arxiv.org/abs/1805.01290](https://arxiv.org/abs/1805.01290)
+
+**Multi-label Learning Based Deep Transfer Neural Network for Facial Attribute Classification**
+
+- intro: Xiamen University & Xiamen University of Technology
+- arxiv: [https://arxiv.org/abs/1805.01282](https://arxiv.org/abs/1805.01282)
 
 # Video Face Recognition
+
+**Neural Aggregation Network for Video Face Recognition**
+
+- intro: CVPR 2017
+- keywords: Neural Aggregation Network (NAN)
+- arxiv: [https://arxiv.org/abs/1603.05474](https://arxiv.org/abs/1603.05474)
 
 **Attention-Set based Metric Learning for Video Face Recognition**
 
 [https://arxiv.org/abs/1704.03805](https://arxiv.org/abs/1704.03805)
+
+**SeqFace: Make full use of sequence information for face recognitio**
+
+- arxiv: [https://arxiv.org/abs/1803.06524](https://arxiv.org/abs/1803.06524)
+- github: [https://github.com/huangyangyu/SeqFace](https://github.com/huangyangyu/SeqFace)
 
 # Facial Point / Landmark Detection
 
@@ -301,6 +385,26 @@ date: 2015-10-09
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1802.01777](https://arxiv.org/abs/1802.01777)
 - github: [https://github.com/mtli/BFFL](https://github.com/mtli/BFFL)
+
+**Style Aggregated Network for Facial Landmark Detection**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.04108](https://arxiv.org/abs/1803.04108)
+- github: [https://github.com/D-X-Y/SAN](https://github.com/D-X-Y/SAN)
+
+**Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment**
+
+[https://arxiv.org/abs/1803.05588](https://arxiv.org/abs/1803.05588)
+
+# Face Synthesis
+
+**Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis**
+
+- intro: ICCV 2017
+- keywords: TP-GAN
+- arxiv: [https://arxiv.org/abs/1704.04086](https://arxiv.org/abs/1704.04086)
+- paper: [http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Beyond_Face_Rotation_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_Beyond_Face_Rotation_ICCV_2017_paper.pdf)
+- github(official, Tensorflow): [https://github.com/HRLTY/TP-GAN](https://github.com/HRLTY/TP-GAN)
 
 # Projects
 

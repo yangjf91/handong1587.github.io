@@ -104,12 +104,21 @@ Auto-encoder
 - intro: Arts et Métiers ParisTech
 - arxiv: [https://arxiv.org/abs/1707.01700](https://arxiv.org/abs/1707.01700)
 
+**Supervised Convolutional Sparse Coding**
+
+[https://arxiv.org/abs/1804.02678](https://arxiv.org/abs/1804.02678)
+
 ## Clustering
 
 **Deep clustering: Discriminative embeddings for segmentation and separation**
 
 - arxiv: [https://arxiv.org/abs/1508.04306](https://arxiv.org/abs/1508.04306)
 - github(Keras): [https://github.com/jcsilva/deep-clustering](https://github.com/jcsilva/deep-clustering)
+
+**Neural network-based clustering using pairwise constraints**
+
+- intro: ICLR 2016
+- arxiv: [https://arxiv.org/abs/1511.06321](https://arxiv.org/abs/1511.06321)
 
 **Unsupervised Deep Embedding for Clustering Analysis**
 
@@ -289,6 +298,26 @@ testing it on the MNIST handwritten digits data.
 - intro: University of Edinburgh & RIKEN AIP
 - keywords: Deep Matching Autoencoders (DMAE)
 - arxiv: [https://arxiv.org/abs/1711.06047](https://arxiv.org/abs/1711.06047)
+
+**Understanding Autoencoders with Information Theoretic Concepts**
+
+- intro: University of Florida
+- arxiv: [https://arxiv.org/abs/1804.00057](https://arxiv.org/abs/1804.00057)
+
+**Hyperspherical Variational Auto-Encoders**
+
+- intro: University of Amsterdam
+- project page: [https://nicola-decao.github.io/s-vae/](https://nicola-decao.github.io/s-vae/)
+- arxiv: [https://arxiv.org/abs/1804.00891](https://arxiv.org/abs/1804.00891)
+- github: [https://github.com/nicola-decao/s-vae](https://github.com/nicola-decao/s-vae)
+
+**Spatial Frequency Loss for Learning Convolutional Autoencoders**
+
+[https://arxiv.org/abs/1806.02336](https://arxiv.org/abs/1806.02336)
+
+**DAQN: Deep Auto-encoder and Q-Network**
+
+[https://arxiv.org/abs/1806.00630](https://arxiv.org/abs/1806.00630)
 
 # RBM (Restricted Boltzmann Machine)
 

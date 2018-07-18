@@ -137,8 +137,6 @@ after the embedding and recurrent layers of the RNN."
 
 **Expressing an Image Stream with a Sequence of Natural Sentences**
 
-![](/assets/image_captioning/stream2text_nips.jpg)
-
 - intro: NIPS 2015. CRCN
 - nips-page: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences)
 - paper: [http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf)
@@ -313,6 +311,43 @@ after the embedding and recurrent layers of the RNN."
 
 [https://arxiv.org/abs/1712.02051](https://arxiv.org/abs/1712.02051)
 
+**Improved Image Captioning with Adversarial Semantic Alignment**
+
+- intro: IBM Research
+- arxiv: [https://arxiv.org/abs/1805.00063](https://arxiv.org/abs/1805.00063)
+
+**Object Counts! Bringing Explicit Detections Back into Image Captioning**
+
+- intro: NAACL 2018
+- arxiv: [https://arxiv.org/abs/1805.00314](https://arxiv.org/abs/1805.00314)
+
+**Defoiling Foiled Image Captions**
+
+- intro: NAACL 2018
+- arxiv: [https://arxiv.org/abs/1805.06549](https://arxiv.org/abs/1805.06549)
+
+**SemStyle: Learning to Generate Stylised Image Captions using Unaligned Text**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.07030](https://arxiv.org/abs/1805.07030)
+
+**Improving Image Captioning with Conditional Generative Adversarial Nets**
+
+[https://arxiv.org/abs/1805.07112](https://arxiv.org/abs/1805.07112)
+
+**CNN+CNN: Convolutional Decoders for Image Captioning**
+
+[https://arxiv.org/abs/1805.09019](https://arxiv.org/abs/1805.09019)
+
+**Diverse and Controllable Image Captioning with Part-of-Speech Guidance**
+
+[https://arxiv.org/abs/1805.12589](https://arxiv.org/abs/1805.12589)
+
+**Learning to Evaluate Image Captioning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1806.06422](https://arxiv.org/abs/1806.06422)
+
 # Object Descriptions
 
 **Generation and Comprehension of Unambiguous Object Descriptions**
@@ -483,6 +518,39 @@ after the embedding and recurrent layers of the RNN."
 **Less Is More: Picking Informative Frames for Video Captioning**
 
 [https://arxiv.org/abs/1803.01457](https://arxiv.org/abs/1803.01457)
+
+**End-to-End Video Captioning with Multitask Reinforcement Learning**
+
+[https://arxiv.org/abs/1803.07950](https://arxiv.org/abs/1803.07950)
+
+**End-to-End Dense Video Captioning with Masked Transformer**
+
+- intro: CVPR 2018. University of Michigan & Salesforce Research
+- arxiv: [https://arxiv.org/abs/1804.00819](https://arxiv.org/abs/1804.00819)
+
+**Reconstruction Network for Video Captioning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.11438](https://arxiv.org/abs/1803.11438)
+
+**Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning**
+
+- intro: CVPR 2018 spotlight paper
+- arxiv: [https://arxiv.org/abs/1804.00100](https://arxiv.org/abs/1804.00100)
+
+**Jointly Localizing and Describing Events for Dense Video Captioning**
+
+- intro: CVPR 2018 Spotlight, Rank 1 in ActivityNet Captions Challenge 2017
+- arxiv: [https://arxiv.org/abs/1804.08274](https://arxiv.org/abs/1804.08274)
+
+**Contextualize, Show and Tell: A Neural Visual Storyteller**
+
+[https://arxiv.org/abs/1806.00738](https://arxiv.org/abs/1806.00738)
+
+**RUC+CMU: System Report for Dense Captioning Events in Videos**
+
+- intro: Winner in ActivityNet 2018 Dense Video Captioning challenge
+- arxiv: [https://arxiv.org/abs/1806.08854](https://arxiv.org/abs/1806.08854)
 
 # Projects
 

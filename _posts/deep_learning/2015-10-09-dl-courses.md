@@ -135,6 +135,10 @@ date: 2015-10-09
 - video: [https://www.researchgate.net/project/Theories-of-Deep-Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning)
 - mirror: [https://www.bilibili.com/video/av16136625/](https://www.bilibili.com/video/av16136625/)
 
+**CS230: Deep Learning Spring 2018**
+
+[https://web.stanford.edu/class/cs230/](https://web.stanford.edu/class/cs230/)
+
 ## With Video Lectures
 
 **Deep Learning: Taking machine learning to the next level (Udacity)**
@@ -251,6 +255,11 @@ such as image classification, object detection or text captioning.
 
 - homepage: [https://imatge.upc.edu/web/teaching/deep-learning-computer-vision](https://imatge.upc.edu/web/teaching/deep-learning-computer-vision)
 
+**Advanced Computer Vision Cap6412**
+
+- homepage: [http://crcv.ucf.edu/courses/CAP6412/Spring2018/](http://crcv.ucf.edu/courses/CAP6412/Spring2018/)
+- video: [https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993)
+
 # Natural Language Processing
 
 **CS224n: Natural Language Processing with Deep Learning**
@@ -316,6 +325,11 @@ such as image classification, object detection or text captioning.
 **Intro to Parallel Programming Using CUDA to Harness the Power of GPUs (Udacity)**
 
 [https://www.udacity.com/course/intro-to-parallel-programming--cs344](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+
+**Fundamentals of Accelerated Computing with CUDA C/C++**
+
+- intro: Learn to use CUDA C/C++ tools and techniques to accelerate CPU-only applications to run on massively parallel GPUs.
+- homepage: [https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-01+V1/about)
 
 # Workshops
 

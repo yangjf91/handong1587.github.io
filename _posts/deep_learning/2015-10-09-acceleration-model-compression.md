@@ -471,6 +471,37 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Tsinghua University & ShanghaiTech University & Microsoft Research
 - arxiv: [https://arxiv.org/abs/1802.10399](https://arxiv.org/abs/1802.10399)
 
+**Adversarial Network Compression**
+
+[https://arxiv.org/abs/1803.10750](https://arxiv.org/abs/1803.10750)
+
+**Expanding a robot's life: Low power object recognition via FPGA-based DCNN deployment**
+
+- intro: MOCAST 2018
+- arxiv: [https://arxiv.org/abs/1804.00512](https://arxiv.org/abs/1804.00512)
+
+**Accelerating CNN inference on FPGAs: A Survey**
+
+- intro: [Institut Pascal]
+- arxiv: [https://arxiv.org/abs/1806.01683](https://arxiv.org/abs/1806.01683)
+
+**Doubly Nested Network for Resource-Efficient Inference**
+
+[https://arxiv.org/abs/1806.07568](https://arxiv.org/abs/1806.07568)
+
+**Smallify: Learning Network Size while Training**
+
+- intro: MIT
+- arxiv: [https://arxiv.org/abs/1806.03723](https://arxiv.org/abs/1806.03723)
+
+# Compressing Deep Neural Network
+
+**Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions**
+
+- intro: ICML 2018
+- arxiv: [https://arxiv.org/abs/1806.09228](https://arxiv.org/abs/1806.09228)
+- github: [https://github.com/Sandbox3aster/Deep-K-Means-pytorch](https://github.com/Sandbox3aster/Deep-K-Means-pytorch)
+
 # Pruning
 
 **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
@@ -511,6 +542,15 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: WACV 2018
 - arxiv: [https://arxiv.org/abs/1801.10447](https://arxiv.org/abs/1801.10447)
 
+**A novel channel pruning method for deep neural network compression**
+
+[https://arxiv.org/abs/1805.11394](https://arxiv.org/abs/1805.11394)
+
+**PCAS: Pruning Channels with Attention Statistics**
+
+- intro: Oki Electric Industry Co., Ltd
+- arxiv: [https://arxiv.org/abs/1806.05382](https://arxiv.org/abs/1806.05382)
+
 # Quantized Neural Networks
 
 **Quantized Convolutional Neural Networks for Mobile Devices**
@@ -533,8 +573,18 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 **Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference**
 
-- intro: Google
+- intro: CVPR 2018. Google
 - arxiv: [https://arxiv.org/abs/1712.05877](https://arxiv.org/abs/1712.05877)
+
+**Deep Neural Network Compression with Single and Multiple Level Quantization**
+
+- intro: AAAI 2018. Shanghai Jiao Tong University & University of Chinese Academy of Sciences
+- arxiv: [https://arxiv.org/abs/1803.03289](https://arxiv.org/abs/1803.03289)
+
+**Quantizing deep convolutional networks for efficient inference: A whitepaper**
+
+- intro: Google
+- arxiv: [https://arxiv.org/abs/1806.08342](https://arxiv.org/abs/1806.08342)
 
 # Binary Convolutional Neural Networks / Binarized Neural Networks
 
@@ -594,6 +644,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 [https://arxiv.org/abs/1802.02733](https://arxiv.org/abs/1802.02733)
 
+**Energy Efficient Hadamard Neural Networks**
+
+- keywords: Binary Weight and Hadamard-transformed Image Network (BWHIN), Binary Weight Network (BWN), Hadamard-transformed Image Network (HIN)
+- arxiv: [https://arxiv.org/abs/1805.05421](https://arxiv.org/abs/1805.05421)
+
 # Accelerating / Fast Algorithms
 
 **Fast Algorithms for Convolutional Neural Networks**
@@ -649,6 +704,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: Uber
 - project page: [https://eng.uber.com/sbnet/](https://eng.uber.com/sbnet/)
 - arxiv: [https://arxiv.org/abs/1801.02108](https://arxiv.org/abs/1801.02108)
+- github: [https://github.com/uber/sbnet](https://github.com/uber/sbnet)
 
 **Accelerating deep neural networks with tensor decompositions**
 
@@ -663,6 +719,11 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: CVPR 2018
 - arxiv: [https://arxiv.org/abs/1802.09723](https://arxiv.org/abs/1802.09723)
+
+**Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications**
+
+- intro: UC Berkeley & Samsung Research
+- arxiv: [https://arxiv.org/abs/1804.10642](https://arxiv.org/abs/1804.10642)
 
 # Knowledge Distilling / Knowledge Transfer
 
@@ -683,6 +744,7 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 
 - intro: TuSimple
 - arxiv: [https://arxiv.org/abs/1707.01219](https://arxiv.org/abs/1707.01219)
+- github: [https://github.com/TuSimple/neuron-selectivity-transfer](https://github.com/TuSimple/neuron-selectivity-transfer)
 
 **Learning Loss for Knowledge Distillation with Conditional Adversarial Networks**
 
@@ -703,6 +765,30 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 **model_compression: Implementation of model compression with knowledge distilling method**
 
 - github: [https://github.com/chengshengchan/model_compression](https://github.com/chengshengchan/model_compression)
+
+**Neural Network Distiller**
+
+- intro: Neural Network Distiller: a Python package for neural network compression research
+- project page: [https://nervanasystems.github.io/distiller/](https://nervanasystems.github.io/distiller/)
+- github: [https://github.com/NervanaSystems/distiller](https://github.com/NervanaSystems/distiller)
+
+**Knowledge Distillation in Generations: More Tolerant Teachers Educate Better Students**
+
+- intro: The Johns Hopkins University
+- arxiv: [https://arxiv.org/abs/1805.05551](https://arxiv.org/abs/1805.05551)
+
+**Improving Knowledge Distillation with Supporting Adversarial Samples**
+
+[https://arxiv.org/abs/1805.05532](https://arxiv.org/abs/1805.05532)
+
+**Recurrent knowledge distillation**
+
+- intro: ICIP 2018
+- arxiv: [https://arxiv.org/abs/1805.07170](https://arxiv.org/abs/1805.07170)
+
+**Knowledge Distillation by On-the-Fly Native Ensemble**
+
+[https://arxiv.org/abs/1806.04606](https://arxiv.org/abs/1806.04606)
 
 # Code Optimization
 

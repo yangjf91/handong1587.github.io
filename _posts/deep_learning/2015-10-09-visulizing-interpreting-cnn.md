@@ -127,6 +127,8 @@ date: 2015-10-09
 
 **Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization**
 
+**Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**
+
 ![](https://camo.githubusercontent.com/450498bd998fd99d51b647d2b6c8631e94585522/687474703a2f2f692e696d6775722e636f6d2f4a614762645a352e706e67)
 
 - arxiv: [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
@@ -243,6 +245,21 @@ date: 2015-10-09
 **Visual Interpretability for Deep Learning: a Survey**
 
 [https://arxiv.org/abs/1802.00614](https://arxiv.org/abs/1802.00614)
+
+**Interpreting Deep Classifier by Visual Distillation of Dark Knowledge**
+
+- intro: University of Edinburgh & Huawei Research America
+- arxiv: [https://arxiv.org/abs/1803.04042](https://arxiv.org/abs/1803.04042)
+
+**How convolutional neural network see the world - A survey of convolutional neural network visualization methods**
+
+- intro: Mathematical Foundations of Computing. George Mason University & Clarkson University
+- arxiv: [https://arxiv.org/abs/1804.11191](https://arxiv.org/abs/1804.11191)
+
+**Understanding Regularization to Visualize Convolutional Neural Networks**
+
+- intro: Konica Minolta Laboratory Europe & Technical University of Munich
+- arxiv: [https://arxiv.org/abs/1805.00071](https://arxiv.org/abs/1805.00071)
 
 # Projects
 

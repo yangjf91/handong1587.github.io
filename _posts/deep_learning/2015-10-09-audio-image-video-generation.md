@@ -208,6 +208,20 @@ date: 2015-10-09
 - intro: Google Brain & UC Berkeley
 - arxiv: [https://arxiv.org/abs/1802.05751](https://arxiv.org/abs/1802.05751)
 
+**Unpaired Multi-Domain Image Generation via Regularized Conditional GANs**
+
+[https://arxiv.org/abs/1805.02456](https://arxiv.org/abs/1805.02456)
+
+**Transferring GANs: generating images from limited data**
+
+- intro: Universitat Aut`onoma de Barcelona
+- arxiv: [https://arxiv.org/abs/1805.01677](https://arxiv.org/abs/1805.01677)
+- github: [https://github.com/yaxingwang/Transferring-GANs](https://github.com/yaxingwang/Transferring-GANs)
+
+**Cross Domain Image Generation through Latent Space Exploration with Adversarial Loss**
+
+[https://arxiv.org/abs/1805.10130](https://arxiv.org/abs/1805.10130)
+
 # Face Image Generation
 
 **Fader Networks: Manipulating Images by Sliding Attributes**
@@ -220,6 +234,7 @@ date: 2015-10-09
 
 **Disentangled Person Image Generation**
 
+- intro: CVPR 2018 spotlight
 - intro: KU-Leuven/PSI & Max Planck Institute for Informatics & ETH Zurich
 - arxiv: [https://arxiv.org/abs/1712.02621](https://arxiv.org/abs/1712.02621)
 
@@ -227,6 +242,7 @@ date: 2015-10-09
 
 - intro: NIPS 2017
 - arxiv: [https://arxiv.org/abs/1705.09368](https://arxiv.org/abs/1705.09368)
+- poster: [https://homes.esat.kuleuven.be/~liqianma/NIPS17_PG2/NIPS17_PG2_poster.pdf](https://homes.esat.kuleuven.be/~liqianma/NIPS17_PG2/NIPS17_PG2_poster.pdf)
 
 **Deformable GANs for Pose-based Human Image Generation**
 
@@ -337,8 +353,7 @@ date: 2015-10-09
 
 **Deconvolution and Checkerboard Artifacts**
 
-:star::star::star::star::star:
-
+- :star::star::star::star::star:
 - intro: Google Brain & Université de Montréal
 - blog: [http://distill.pub/2016/deconv-checkerboard/](http://distill.pub/2016/deconv-checkerboard/)
 

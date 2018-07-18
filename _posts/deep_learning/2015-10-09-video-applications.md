@@ -95,6 +95,45 @@ date: 2015-10-09
 - project page: [http://research.nvidia.com/publication/2018-02_Learning-Binary-Residual](http://research.nvidia.com/publication/2018-02_Learning-Binary-Residual)
 - arxiv: [https://arxiv.org/abs/1712.05087](https://arxiv.org/abs/1712.05087)
 
+**Video Representation Learning Using Discriminative Pooling**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1803.10628](https://arxiv.org/abs/1803.10628)
+
+**Rethinking the Faster R-CNN Architecture for Temporal Action Localization**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.07667](https://arxiv.org/abs/1804.07667)
+
+**Deep Keyframe Detection in Human Action Videos**
+
+- intro: two-stream ConvNet
+- arxiv: [https://arxiv.org/abs/1804.10021](https://arxiv.org/abs/1804.10021)
+
+**FFNet: Video Fast-Forwarding via Reinforcement Learning**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1805.02792](https://arxiv.org/abs/1805.02792)
+
+**Fast forwarding Egocentric Videos by Listening and Watching**
+
+[https://arxiv.org/abs/1806.04620](https://arxiv.org/abs/1806.04620)
+
+**Scanner: Efficient Video Analysis at Scale**
+
+- intro: CMU
+- arxiv: [https://arxiv.org/abs/1805.07339](https://arxiv.org/abs/1805.07339)
+
+**Massively Parallel Video Networks**
+
+- intro: DeepMind & University of Oxford
+- arxiv: [https://arxiv.org/abs/1806.03863](https://arxiv.org/abs/1806.03863)
+
+**Object Level Visual Reasoning in Videos**
+
+- intro: LIRIS & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1806.06157](https://arxiv.org/abs/1806.06157)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -217,8 +256,9 @@ date: 2015-10-09
 
 **Non-local Neural Networks**
 
-- intro: CMU & Facebook AI Research
+- intro: CVPR 2018. CMU & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971)
+- github(Caffe2): [https://github.com/facebookresearch/video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
 
 **Temporal 3D ConvNets: New Architecture and Transfer Learning for Video Classification**
 
@@ -497,6 +537,18 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1802.08362](https://arxiv.org/abs/1802.08362)
 
+**A Closer Look at Spatiotemporal Convolutions for Action Recognition**
+
+- intro: CVPR 2018. Facebook Research
+- intro: R(2+1)D and Mixed-Convolutions for Action Recognition.
+- project page: [https://dutran.github.io/R2Plus1D/](https://dutran.github.io/R2Plus1D/)
+- arxiv: [https://arxiv.org/abs/1711.11248](https://arxiv.org/abs/1711.11248)
+- github: [https://github.com/facebookresearch/R2Plus1D](https://github.com/facebookresearch/R2Plus1D)
+
+**VideoCapsuleNet: A Simplified Network for Action Detection**
+
+[https://arxiv.org/abs/1805.08162](https://arxiv.org/abs/1805.08162)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -577,6 +629,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - intro: Rochester Institute of Technology
 - arxiv: [https://arxiv.org/abs/1612.00390](https://arxiv.org/abs/1612.00390)
 
+**Abnormal Event Detection in Videos using Spatiotemporal Autoencoder**
+
+- arxiv: [https://arxiv.org/abs/1701.01546](https://arxiv.org/abs/1701.01546)
+- github: [https://github.com/yshean/abnormal-spatiotemporal-ae](https://github.com/yshean/abnormal-spatiotemporal-ae)
+
 **Abnormal Event Detection in Videos using Generative Adversarial Nets**
 
 - intro: Best Paper / Student Paper Award Finalist, IEEE International Conference on Image Processing (ICIP), 2017
@@ -591,6 +648,15 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Uncanny Vision Solutions
 - arxiv: [https://arxiv.org/abs/1801.03149](https://arxiv.org/abs/1801.03149)
+
+**STAN: Spatio-Temporal Adversarial Networks for Abnormal Event Detection**
+
+- intro: ICASSP 2018
+- arxiv: [https://arxiv.org/abs/1804.08381](https://arxiv.org/abs/1804.08381)
+
+**Video Anomaly Detection and Localization via Gaussian Mixture Fully Convolutional Variational Autoencoder**
+
+[https://arxiv.org/abs/1805.11223](https://arxiv.org/abs/1805.11223)
 
 # Video Prediction
 
@@ -650,6 +716,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 - keywords: unsupervised learning through video prediction, Parallel Multi-Dimensional LSTM
 - project page: [https://sites.google.com/view/contextvp](https://sites.google.com/view/contextvp)
 - arxiv: [https://arxiv.org/abs/1710.08518](https://arxiv.org/abs/1710.08518)
+
+**Novel Video Prediction for Large-scale Scene using Optical Flow**
+
+- intro: University of Victoria & Tongji University & Horizon Robotics
+- arxiv: [https://arxiv.org/abs/1805.12243](https://arxiv.org/abs/1805.12243)
 
 # Video Tagging
 
@@ -749,6 +820,23 @@ alleviates the problem of video browsing, editing and indexing.
 - arxiv: [https://arxiv.org/abs/1801.00054](https://arxiv.org/abs/1801.00054)
 - github: [https://github.com//KaiyangZhou/vsumm-reinforce](https://github.com//KaiyangZhou/vsumm-reinforce)
 
+**Viewpoint-aware Video Summarization**
+
+- intro: CVPR 2018
+- arxiv: [https://arxiv.org/abs/1804.02843](https://arxiv.org/abs/1804.02843)
+
+**DTR-GAN: Dilated Temporal Relational Adversarial Network for Video Summarization**
+
+[https://arxiv.org/abs/1804.11228](https://arxiv.org/abs/1804.11228)
+
+**Learning Video Summarization Using Unpaired Data**
+
+[https://arxiv.org/abs/1805.12174](https://arxiv.org/abs/1805.12174)
+
+**Video Summarization Using Fully Convolutional Sequence Networks**
+
+[https://arxiv.org/abs/1805.10538](https://arxiv.org/abs/1805.10538)
+
 # Video Highlight Detection
 
 **Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders**
@@ -777,6 +865,12 @@ alleviates the problem of video browsing, editing and indexing.
 
 - intro: AAAI 2018
 - arxiv: [https://arxiv.org/abs/1801.10312](https://arxiv.org/abs/1801.10312)
+
+**PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation**
+
+- intro: Nanyang Technological University & Google Research, Zurich
+- keywords: personalized highlight detection (PHD)
+- arxiv: [https://arxiv.org/abs/1804.06604](https://arxiv.org/abs/1804.06604)
 
 # Video Understanding
 
