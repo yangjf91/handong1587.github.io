@@ -161,6 +161,16 @@ date: 2015-10-09
 - intro: CVPR 2018. The Robotics Institute, Carnegie Mellon University
 - arxiv: [https://arxiv.org/abs/1803.08035](https://arxiv.org/abs/1803.08035)
 
+**Attention-based Pyramid Aggregation Network for Visual Place Recognition**
+
+- intro: ACM MM 2018
+- arxiv: [https://arxiv.org/abs/1808.00288](https://arxiv.org/abs/1808.00288)
+
+**How do Convolutional Neural Networks Learn Design?**
+
+- intro: ICPR 2018
+- arxiv: [https://arxiv.org/abs/1808.08402](https://arxiv.org/abs/1808.08402)
+
 # Massive Classification
 
 **Accelerated Training for Massive Classification via Dynamic Class Selection**
@@ -226,6 +236,11 @@ date: 2015-10-09
 - keywords: COCO loss
 - arxiv: [https://arxiv.org/abs/1702.06890](https://arxiv.org/abs/1702.06890)
 - github: [https://github.com/sciencefans/coco_loss](https://github.com/sciencefans/coco_loss)
+
+**Pose-Aware Person Recognition**
+
+- intro: CVIT & Facebook AI Research
+- arxiv: [https://arxiv.org/abs/1705.10120](https://arxiv.org/abs/1705.10120)
 
 ## COCO_v2
 
@@ -450,6 +465,16 @@ date: 2015-10-09
 - keywords: PETA, RAP and WIDER
 - arxiv: [https://arxiv.org/abs/1707.06089](https://arxiv.org/abs/1707.06089)
 - github: [https://github.com/asc-kit/vespa](https://github.com/asc-kit/vespa)
+
+**Deep Imbalanced Attribute Classification using Visual Attention Aggregation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.03903](https://arxiv.org/abs/1807.03903)
+
+**Localization Guided Learning for Pedestrian Attribute Recognition**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1808.09102](https://arxiv.org/abs/1808.09102)
 
 # Clothes Recognition
 

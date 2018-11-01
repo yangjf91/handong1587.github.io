@@ -281,6 +281,46 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1806.01576](https://arxiv.org/abs/1806.01576)
 
+**Image Super-Resolution Using Very Deep Residual Channel Attention Networks**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.02758](https://arxiv.org/abs/1807.02758)
+
+**An Attention-Based Approach for Single Image Super Resolution**
+
+[https://arxiv.org/abs/1807.06779](https://arxiv.org/abs/1807.06779)
+
+**The Unreasonable Effectiveness of Texture Transfer for Single Image Super-resolution**
+
+[https://arxiv.org/abs/1808.00043](https://arxiv.org/abs/1808.00043)
+
+**Deep Learning for Single Image Super-Resolution: A Brief Review**
+
+[https://arxiv.org/abs/1808.03344](https://arxiv.org/abs/1808.03344)
+
+**Improving Super-Resolution Methods via Incremental Residual Learning**
+
+[https://arxiv.org/abs/1808.07110](https://arxiv.org/abs/1808.07110)
+
+**Deep Learning-based Image Super-Resolution Considering Quantitative and Perceptual Quality**
+
+- intro: Won the 2nd place for Region 2 in the PIRM Challenge on Perceptual Super Resolution at ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.04789](https://arxiv.org/abs/1809.04789)
+- github: [https://github.com/idearibosome/tf-perceptual-eusr](https://github.com/idearibosome/tf-perceptual-eusr)
+
+**Generative adversarial network-based image super-resolution using perceptual content losses**
+
+- intro: Won the 2nd place for Region 1 in the PIRM Challenge on Perceptual Super Resolution at ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.04783](https://arxiv.org/abs/1809.04783)
+
+**Channel-wise and Spatial Feature Modulation Network for Single Image Super-Resolution**
+
+[https://arxiv.org/abs/1809.11130](https://arxiv.org/abs/1809.11130)
+
+**Triple Attention Mixed Link Network for Single Image Super Resolution**
+
+[https://arxiv.org/abs/1810.03254](https://arxiv.org/abs/1810.03254)
+
 ## Video Super-resolution
 
 **Detail-revealing Deep Video Super-resolution**
@@ -296,6 +336,10 @@ date: 2015-10-09
 **Frame-Recurrent Video Super-Resolution**
 
 [https://arxiv.org/abs/1801.04590](https://arxiv.org/abs/1801.04590)
+
+**Photorealistic Video Super Resolution**
+
+[https://arxiv.org/abs/1807.07930](https://arxiv.org/abs/1807.07930)
 
 # Projects
 

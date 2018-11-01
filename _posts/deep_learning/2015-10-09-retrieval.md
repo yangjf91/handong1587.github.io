@@ -338,6 +338,16 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.08587](https://arxiv.org/abs/1805.08587)
 - github: [https://github.com/pangsm0415/HeW](https://github.com/pangsm0415/HeW)
 
+**Single Shot Scene Text Retrieval**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.09044](https://arxiv.org/abs/1808.09044)
+
+**Learning Embeddings for Product Visual Search with Triplet Loss and Online Sampling**
+
+- intro: Yahoo Research
+- arxiv: [https://arxiv.org/abs/1810.04652](https://arxiv.org/abs/1810.04652)
+
 # Hashing
 
 **Supervised Hashing for Image Retrieval via Image Representation Learning**
@@ -491,7 +501,8 @@ date: 2015-10-09
 
 **The Devil is in the Middle: Exploiting Mid-level Representations for Cross-Domain Instance Matching**
 
-[https://arxiv.org/abs/1711.08106](https://arxiv.org/abs/1711.08106)
+- keywords: finegrained sketch-based image retrieval (FG-SBIR) and Person Re-identification (person ReID)
+- arxiv: [https://arxiv.org/abs/1711.08106](https://arxiv.org/abs/1711.08106)
 
 **ForestHash: Semantic Hashing With Shallow Random Forests and Tiny Convolutional Networks**
 
@@ -568,6 +579,27 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1806.05804](https://arxiv.org/abs/1806.05804)
 
+**Adversarial Learning for Fine-grained Image Search**
+
+[https://arxiv.org/abs/1807.02247](https://arxiv.org/abs/1807.02247)
+
+**Error Correction Maximization for Deep Image Hashing**
+
+[https://arxiv.org/abs/1808.01942](https://arxiv.org/abs/1808.01942)
+
+**Deep Priority Hashing**
+
+- intro: ACM MM 2018 Poster
+- arxiv: [https://arxiv.org/abs/1809.01238](https://arxiv.org/abs/1809.01238)
+
+**Neurons Merging Layer: Towards Progressive Redundancy Reduction for Deep Supervised Hashing**
+
+[https://arxiv.org/abs/1809.02302](https://arxiv.org/abs/1809.02302)
+
+**Deep LDA Hashing**
+
+[https://arxiv.org/abs/1810.03402](https://arxiv.org/abs/1810.03402)
+
 # Cross Modal Retrieval
 
 **Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network**
@@ -616,6 +648,11 @@ date: 2015-10-09
 
 - intro: VGG
 - arxiv: [https://arxiv.org/abs/1805.00833](https://arxiv.org/abs/1805.00833)
+
+**Revisiting Cross Modal Retrieval**
+
+- intro: ECCVW (MULA 2018)
+- arxiv: [https://arxiv.org/abs/1807.07364](https://arxiv.org/abs/1807.07364)
 
 ## Projects
 
@@ -782,6 +819,16 @@ date: 2015-10-09
 **Online Deep Metric Learning**
 
 [https://arxiv.org/abs/1805.05510](https://arxiv.org/abs/1805.05510)
+
+**Deep Randomized Ensembles for Metric Learning**
+
+- arxiv: [https://arxiv.org/abs/1808.04469](https://arxiv.org/abs/1808.04469)
+- github: [https://github.com/littleredxh/DREML](https://github.com/littleredxh/DREML)
+
+**Deep Metric Learning with Hierarchical Triplet Loss**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1810.06951](https://arxiv.org/abs/1810.06951)
 
 # Talks / Slides
 

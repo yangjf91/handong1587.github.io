@@ -708,6 +708,7 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: ACM Multimedia (MM) 2016
 - arxiv: [http://arxiv.org/abs/1608.06197](http://arxiv.org/abs/1608.06197)
+- github(Caffe): [https://github.com/davideverona/deep-crowd-counting_crowdnet](https://github.com/davideverona/deep-crowd-counting_crowdnet)
 
 **Crowd Counting by Adapting Convolutional Neural Networks with Side Information**
 
@@ -828,6 +829,38 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Crowd Counting with Density Adaption Networks**
 
 [https://arxiv.org/abs/1806.10040](https://arxiv.org/abs/1806.10040)
+
+**Perspective-Aware CNN For Crowd Counting**
+
+[https://arxiv.org/abs/1807.01989](https://arxiv.org/abs/1807.01989)
+
+**Crowd Counting using Deep Recurrent Spatial-Aware Network**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1807.00601](https://arxiv.org/abs/1807.00601)
+
+**Top-Down Feedback for Crowd Counting Convolutional Neural Network**
+
+[https://arxiv.org/abs/1807.08881](https://arxiv.org/abs/1807.08881)
+
+**Composition Loss for Counting, Density Map Estimation and Localization in Dense Crowds**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.01050](https://arxiv.org/abs/1808.01050)
+
+**Stacked Pooling: Improving Crowd Counting by Boosting Scale Invariance**
+
+- arxiv: [https://arxiv.org/abs/1808.07456](https://arxiv.org/abs/1808.07456)
+- github: [https://github.com/siyuhuang/crowdcount-stackpool](https://github.com/siyuhuang/crowdcount-stackpool)
+
+**In Defense of Single-column Networks for Crowd Counting**
+
+[https://arxiv.org/abs/1808.06133](https://arxiv.org/abs/1808.06133)
+
+**Attentive Crowd Flow Machines**
+
+- intro: ACM MM, full paper
+- arxiv: [https://arxiv.org/abs/1809.00101](https://arxiv.org/abs/1809.00101)
 
 # Activity Recognition
 
@@ -1017,6 +1050,12 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Free-Form Image Inpainting with Gated Convolution**
 
 [https://arxiv.org/abs/1806.03589](https://arxiv.org/abs/1806.03589)
+
+**Keras implementation of Image OutPainting**
+
+- intro: Stanford CS230 project
+- paper: [https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf)
+- github: [https://github.com/bendangnuksung/Image-OutPainting](https://github.com/bendangnuksung/Image-OutPainting)
 
 # Image Restoration
 
@@ -1211,7 +1250,25 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1806.05229](https://arxiv.org/abs/1806.05229)
 
-# Image Haze Removal
+**Class-Aware Fully-Convolutional Gaussian and Poisson Denoising**
+
+[https://arxiv.org/abs/1808.06562](https://arxiv.org/abs/1808.06562)
+
+**Connecting Image Denoising and High-Level Vision Tasks via Deep Learning**
+
+- intro: IJCAI 2018
+- arxiv: [https://arxiv.org/abs/1809.01826](https://arxiv.org/abs/1809.01826)
+- github: [https://github.com/Ding-Liu/DeepDenoising](https://github.com/Ding-Liu/DeepDenoising)
+
+**DN-ResNet: Efficient Deep Residual Network for Image Denoising**
+
+[https://arxiv.org/abs/1810.06766](https://arxiv.org/abs/1810.06766)
+
+**Deep Learning for Image Denoising: A Survey**
+
+[https://arxiv.org/abs/1810.05052](https://arxiv.org/abs/1810.05052)
+
+# Image Dehazing / Image Haze Removal
 
 **DehazeNet: An End-to-End System for Single Image Haze Removal**
 
@@ -1290,6 +1347,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - intro: CVCS 2018
 - arxiv: [https://arxiv.org/abs/1806.10923](https://arxiv.org/abs/1806.10923)
 
+**Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing**
+
+[https://arxiv.org/abs/1810.02862](https://arxiv.org/abs/1810.02862)
+
 # Image Rain Removal / De-raining
 
 **Clearing the Skies: A deep network architecture for single-image rain removal**
@@ -1337,6 +1398,17 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Lightweight Pyramid Networks for Image Deraining**
 
 [https://arxiv.org/abs/1805.06173](https://arxiv.org/abs/1805.06173)
+
+**Recurrent Squeeze-and-Excitation Context Aggregation Net for Single Image Deraining**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.05698](https://arxiv.org/abs/1807.05698)
+- code: [https://xialipku.github.io/RESCAN/](https://xialipku.github.io/RESCAN/)
+
+**Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining**
+
+- intro: ACM Multimedia 2018
+- arxiv: [https://arxiv.org/abs/1808.01491](https://arxiv.org/abs/1808.01491)
 
 # Fence Removal
 
@@ -1607,6 +1679,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 - arxiv: [https://arxiv.org/abs/1805.11714](https://arxiv.org/abs/1805.11714)
 - youtube: [https://www.youtube.com/watch?v=qc5P2bvfl44](https://www.youtube.com/watch?v=qc5P2bvfl44)
 
+**Semantic Human Matting**
+
+- intro: ACM Multimedia 2018
+- arxiv: [https://arxiv.org/abs/1809.01354](https://arxiv.org/abs/1809.01354)
+
 # Image Blending
 
 **GP-GAN: Towards Realistic High-Resolution Image Blending**
@@ -1630,6 +1707,10 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Learned Perceptual Image Enhancement**
 
 [https://arxiv.org/abs/1712.02864](https://arxiv.org/abs/1712.02864)
+
+**Deep Underwater Image Enhancement**
+
+[https://arxiv.org/abs/1807.03528](https://arxiv.org/abs/1807.03528)
 
 # Abnormality Detection / Anomaly Detection
 
@@ -1690,6 +1771,15 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 **Size-to-depth: A New Perspective for Single Image Depth Estimation**
 
 [https://arxiv.org/abs/1801.04461](https://arxiv.org/abs/1801.04461)
+
+**Depth Estimation via Affinity Learned with Convolutional Spatial Propagation Network**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.00150](https://arxiv.org/abs/1808.00150)
+
+**Rethinking Monocular Depth Estimation with Adversarial Training**
+
+[https://arxiv.org/abs/1808.07528](https://arxiv.org/abs/1808.07528)
 
 # Texture Synthesis
 
@@ -1974,6 +2064,16 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1806.01677](https://arxiv.org/abs/1806.01677)
 
+**Open-World Stereo Video Matching with Deep RNN**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.03959](https://arxiv.org/abs/1808.03959)
+
+**Real-time self-adaptive deep stereo**
+
+[https://arxiv.org/abs/1810.05424](https://arxiv.org/abs/1810.05424)
+[https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo)
+
 # Optical Flow
 
 **FlowNet: Learning Optical Flow with Convolutional Networks**
@@ -2003,11 +2103,19 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 **PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume**
 
-[https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+- intro: CVPR 2018
+- project page: [https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for](https://research.nvidia.com/publication/2018-02_PWC-Net:-CNNs-for)
+- arxiv: [https://arxiv.org/abs/1709.02371](https://arxiv.org/abs/1709.02371)
+- github: [https://github.com/NVlabs/PWC-Net](https://github.com/NVlabs/PWC-Net)
 
 **Occlusion Aware Unsupervised Learning of Optical Flow**
 
 [https://arxiv.org/abs/1711.05890](https://arxiv.org/abs/1711.05890)
+
+**Joint Coarse-And-Fine Reasoning for Deep Optical Flow**
+
+- intro: ICIP 2017
+- arxiv: [https://arxiv.org/abs/1808.07416](https://arxiv.org/abs/1808.07416)
 
 **UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss**
 
@@ -2249,6 +2357,18 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 [https://arxiv.org/abs/1703.07431](https://arxiv.org/abs/1703.07431)
 
+# Human-Object Interaction
+
+**Learning Human-Object Interactions by Graph Parsing Neural Networks**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.07962](https://arxiv.org/abs/1808.07962)
+- github: [https://github.com/SiyuanQi/gpnn](https://github.com/SiyuanQi/gpnn)
+
+**Interact as You Intend: Intention-Driven Human-Object Interaction Detection**
+
+[https://arxiv.org/abs/1808.09796](https://arxiv.org/abs/1808.09796)
+
 # Deep Learning in Finance
 
 **Deep Learning in Finance**
@@ -2342,6 +2462,11 @@ Illustration Tagger, InceptionNet, Parsey McParseface, ArtsyNetworks
 
 - intro: Deep Reinforcement Learning based Trading Agent for Bitcoin
 - arxiv: [https://github.com/samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent)
+
+**Financial Trading as a Game: A Deep Reinforcement Learning Approach**
+
+- intro: National Chiao Tung University
+- arxiv: [https://arxiv.org/abs/1807.02787](https://arxiv.org/abs/1807.02787)
 
 # Deep Learning in Speech
 

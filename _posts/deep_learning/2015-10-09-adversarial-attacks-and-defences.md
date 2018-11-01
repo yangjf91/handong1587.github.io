@@ -220,6 +220,12 @@ date: 2015-10-09
 - intro: Bar-Ilan University & DeepMind
 - arxiv: [https://arxiv.org/abs/1801.02608](https://arxiv.org/abs/1801.02608)
 
+**Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples**
+
+- intro: ICML 2018 Best Paper Award. MIT & UC Berkeley
+- arxiv: [https://arxiv.org/abs/1802.00420](https://arxiv.org/abs/1802.00420)
+- github: [https://github.com/anishathalye/obfuscated-gradients](https://github.com/anishathalye/obfuscated-gradients)
+
 **Adversarial Examples that Fool both Human and Computer Vision**
 
 - intro: Google Brain & Stanford University
@@ -318,3 +324,30 @@ date: 2015-10-09
 
 - intro: Google Brain
 - arxiv: [https://arxiv.org/abs/1806.11146](https://arxiv.org/abs/1806.11146)
+
+**Defend Deep Neural Networks Against Adversarial Examples via Fixed andDynamic Quantized Activation Functions**
+
+- intro: University of Central Florida & JD AI Research & Tencent AI Lab
+- arxiv: [https://arxiv.org/abs/1807.06714](https://arxiv.org/abs/1807.06714)
+
+**Motivating the Rules of the Game for Adversarial Example Research**
+
+- intro: Google Brain & Princeton
+- arxiv: [https://arxiv.org/abs/1807.06732](https://arxiv.org/abs/1807.06732)
+
+**Defense Against Adversarial Attacks with Saak Transform**
+
+[https://arxiv.org/abs/1808.01785](https://arxiv.org/abs/1808.01785)
+
+**Are adversarial examples inevitable?**
+
+[https://arxiv.org/abs/1809.02104](https://arxiv.org/abs/1809.02104)
+
+**Open Set Adversarial Examples**
+
+[https://arxiv.org/abs/1809.02681](https://arxiv.org/abs/1809.02681)
+
+**Towards Query Efficient Black-box Attacks: An Input-free Perspective**
+
+- intro: 11th ACM Workshop on Artificial Intelligence and Security (AISec) with the 25th ACM Conference on Computer and Communications Security (CCS)
+- arxiv: [https://arxiv.org/abs/1809.02918](https://arxiv.org/abs/1809.02918)

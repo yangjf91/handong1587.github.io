@@ -343,6 +343,18 @@ date: 2015-10-09
 
 [http://hangzh.com/PyTorch-Encoding/notes/syncbn.html](http://hangzh.com/PyTorch-Encoding/notes/syncbn.html)
 
+**Restructuring Batch Normalization to Accelerate CNN Training**
+
+[https://arxiv.org/abs/1807.01702](https://arxiv.org/abs/1807.01702)
+
+**Intro to optimization in deep learning: Busting the myth about batch normalization**
+
+- blog: [https://blog.paperspace.com/busting-the-myths-about-batch-normalization/](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)
+
+**Understanding Regularization in Batch Normalization**
+
+[https://arxiv.org/abs/1809.00846](https://arxiv.org/abs/1809.00846)
+
 ### Backward pass of BN
 
 **Understanding the backward pass through Batch Normalization Layer**
@@ -383,6 +395,7 @@ date: 2015-10-09
 
 **Group Normalization**
 
+- intro: ECCV 2018 Best Paper Award Honorable Mention
 - intro: Facebook AI Research (FAIR)
 - arxiv: [https://arxiv.org/abs/1803.08494](https://arxiv.org/abs/1803.08494)
 
@@ -391,6 +404,12 @@ date: 2015-10-09
 **Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks**
 
 [https://arxiv.org/abs/1805.07925](https://arxiv.org/abs/1805.07925)
+
+**Two at Once: Enhancing Learning and Generalization Capacities via IBN-Net**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.09441](https://arxiv.org/abs/1807.09441)
+- github(official, Pytorch): [https://github.com/XingangPan/IBN-Net](https://github.com/XingangPan/IBN-Net)
 
 # Loss Function
 
@@ -458,7 +477,7 @@ date: 2015-10-09
 - intro: Cornell University
 - arxiv: [https://arxiv.org/abs/1805.07836](https://arxiv.org/abs/1805.07836)
 
-# Learning Rate
+# Learning Rates
 
 **No More Pesky Learning Rates**
 
@@ -484,6 +503,14 @@ date: 2015-10-09
 
 - intro: University of Texas at Austin & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1803.02865](https://arxiv.org/abs/1803.02865)
+
+**Learning with Random Learning Rates**
+
+- intro: Facebook AI Research & Universite Paris Sud
+- keywords: All Learning Rates At Once (Alrao)
+- project page: [https://leonardblier.github.io/alrao/](https://leonardblier.github.io/alrao/)
+- arxiv: [https://arxiv.org/abs/1810.01322](https://arxiv.org/abs/1810.01322)
+- github(PyTorch, official): [https://github.com/leonardblier/alrao](https://github.com/leonardblier/alrao)
 
 # Convolution Filters
 
@@ -812,6 +839,11 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1805.08000](https://arxiv.org/abs/1805.08000)
 - github: [https://github.com/youzhonghui/ANL](https://github.com/youzhonghui/ANL)
 
+**Deep Bilevel Learning**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1809.01465](https://arxiv.org/abs/1809.01465)
+
 ## Dropout
 
 **Improving neural networks by preventing co-adaptation of feature detectors**
@@ -912,6 +944,16 @@ date: 2015-10-09
 - intro: An explorable explanation on the phenomenon of adversarial examples in linear classification and its relation to L2 regularization
 - blog: [https://thomas-tanay.github.io/post--L2-regularization/](https://thomas-tanay.github.io/post--L2-regularization/)
 - arxiv: [https://arxiv.org/abs/1806.11186](https://arxiv.org/abs/1806.11186)
+
+**Dropout is a special case of the stochastic delta rule: faster and more accurate deep learning**
+
+- intro: Rutgers University
+- arxiv: [https://arxiv.org/abs/1808.03578](https://arxiv.org/abs/1808.03578)
+- github: [https://github.com/noahfl/densenet-sdr/](https://github.com/noahfl/densenet-sdr/)
+
+**Data Dropout: Optimizing Training Data for Convolutional Neural Networks**
+
+[https://arxiv.org/abs/1809.00193](https://arxiv.org/abs/1809.00193)
 
 ## DropConnect
 
@@ -1304,6 +1346,13 @@ date: 2015-10-09
 - arxiv: [https://arxiv.org/abs/1801.02548](https://arxiv.org/abs/1801.02548)
 - github: [https://github.com/JohnMcKay/dataImbalance](https://github.com/JohnMcKay/dataImbalance)
 
+**Pseudo-Feature Generation for Imbalanced Data Analysis in Deep Learning**
+
+- intro: National Institute of Information and Communications Technology, Tokyo Japan
+- arxiv: [https://arxiv.org/abs/1807.06538](https://arxiv.org/abs/1807.06538)
+- slides: [https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569](https://www.slideshare.net/TomohikoKonno/pseudofeature-generation-for-imbalanced-data-analysis-in-deep-learning-tomohiko-105318569)
+
+
 ## Noisy / Unlabelled Data
 
 **Data Distillation: Towards Omni-Supervised Learning**
@@ -1424,6 +1473,10 @@ date: 2015-10-09
 - intro: we find 99.9% of the gradient exchange in distributed SGD is redundant; we reduce the communication bandwidth by two orders of magnitude without losing accuracy
 - arxiv: [https://arxiv.org/abs/1712.01887](https://arxiv.org/abs/1712.01887)
 
+**RedSync : Reducing Synchronization Traffic for Distributed Deep Learning**
+
+[https://arxiv.org/abs/1808.04357](https://arxiv.org/abs/1808.04357)
+
 ## Projects
 
 **Theano-MPI: a Theano-based Distributed Training Framework**
@@ -1533,6 +1586,11 @@ date: 2015-10-09
 
 - intro: Magic Leap
 - arxiv: [https://arxiv.org/abs/1806.08028](https://arxiv.org/abs/1806.08028)
+
+**Gray-box Adversarial Training**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.01753](https://arxiv.org/abs/1808.01753)
 
 # Low-Precision Training
 

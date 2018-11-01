@@ -171,6 +171,10 @@ date: 2015-10-09
 
 [https://arxiv.org/abs/1703.09507](https://arxiv.org/abs/1703.09507)
 
+**von Mises-Fisher Mixture Model-based Deep learning: Application to Face Verification**
+
+[https://arxiv.org/abs/1706.04264](https://arxiv.org/abs/1706.04264)
+
 **Low Resolution Face Recognition Using a Two-Branch Deep Convolutional Neural Network Architecture**
 
 - intro: Amirkabir University of Technology & MIT
@@ -274,6 +278,49 @@ date: 2015-10-09
 **Low Resolution Face Recognition in the Wild**
 
 [https://arxiv.org/abs/1805.11529](https://arxiv.org/abs/1805.11529)
+
+**From Face Recognition to Models of Identity: A Bayesian Approach to Learning about Unknown Identities from Unsupervised Data**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.07872](https://arxiv.org/abs/1807.07872)
+
+**Git Loss for Deep Face Recognition**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.08512](https://arxiv.org/abs/1807.08512)
+
+**Multicolumn Networks for Face Recognition**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.09192](https://arxiv.org/abs/1807.09192)
+
+**The Devil of Face Recognition is in the Noise**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.11649](https://arxiv.org/abs/1807.11649)
+- paper: [http://openaccess.thecvf.com/content_ECCV_2018/papers/Liren_Chen_The_Devil_of_ECCV_2018_paper.pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liren_Chen_The_Devil_of_ECCV_2018_paper.pdf)
+- dataset: [https://github.com/fwang91/IMDb-Face](https://github.com/fwang91/IMDb-Face)
+
+**Deep Sketch-Photo Face Recognition Assisted by Facial Attributes**
+
+[https://arxiv.org/abs/1808.00059](https://arxiv.org/abs/1808.00059两)
+
+**Global Norm-Aware Pooling for Pose-Robust Face Recognition at Low False Positive Rate**
+
+[https://arxiv.org/abs/1808.00435](https://arxiv.org/abs/1808.00435)
+
+**An Experimental Evaluation of Covariates Effects on Unconstrained Face Verification**
+
+[https://arxiv.org/abs/1808.05508](https://arxiv.org/abs/1808.05508)
+
+**Pairwise Relational Networks for Face Recognition**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.04976](https://arxiv.org/abs/1808.04976)
+
+**Orthogonal Deep Features Decomposition for Age-Invariant Face Recognition**
+
+[https://arxiv.org/abs/1810.07599](https://arxiv.org/abs/1810.07599)
 
 # Facial Attributes Classification
 
@@ -395,6 +442,21 @@ date: 2015-10-09
 **Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment**
 
 [https://arxiv.org/abs/1803.05588](https://arxiv.org/abs/1803.05588)
+
+**Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors**
+
+- intro: Minor modifications to the CVPR 2018 version (add missing references)
+- arxiv: [https://arxiv.org/abs/1807.00966](https://arxiv.org/abs/1807.00966)
+
+**Deep Multi-Center Learning for Face Alignment**
+
+- arxiv: [https://arxiv.org/abs/1808.01558](https://arxiv.org/abs/1808.01558)
+- github: [https://github.com/ZhiwenShao/MCNet-Extension](https://github.com/ZhiwenShao/MCNet-Extension)
+
+**Hierarchical binary CNNs for landmark localization with limited resources**
+
+- intro: TPAMI 2018
+- arxiv: [https://arxiv.org/abs/1808.04803](https://arxiv.org/abs/1808.04803)
 
 # Face Synthesis
 

@@ -404,11 +404,6 @@ not just the convolutions)
 - blog: [http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/](http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/)
 - github: [https://github.com/hollance/MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
-**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
-
-- intro: Megvii Inc (Face++)
-- arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
-
 **Depth_conv-for-mobileNet**
 
 [https://github.com//LamHoCN/Depth_conv-for-mobileNet](https://github.com//LamHoCN/Depth_conv-for-mobileNet)
@@ -437,6 +432,20 @@ not just the convolutions)
 - github: [https://github.com/liangfu/mxnet-mobilenet-v2](https://github.com/liangfu/mxnet-mobilenet-v2)
 - blog: [https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 
+## ShuffleNet
+
+**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
+
+- intro: Megvii Inc (Face++)
+- arxiv: [https://arxiv.org/abs/1707.01083](https://arxiv.org/abs/1707.01083)
+
+## ShuffleNet V2
+
+**ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design**
+
+- intro: ECCV 2018. Megvii Inc (Face++) & Tsinghua University
+- arxiv: [https://arxiv.org/abs/1807.11164]（https://arxiv.org/abs/1807.11164
+
 ## SENet
 
 **Squeeze-and-Excitation Networks**
@@ -445,6 +454,11 @@ not just the convolutions)
 - arxiv: [https://arxiv.org/abs/1709.01507](https://arxiv.org/abs/1709.01507)
 - github(official, Caffe): [https://github.com/hujie-frank/SENet](https://github.com/hujie-frank/SENet)
 - github: [https://github.com/bruinxiong/SENet.mxnet](https://github.com/bruinxiong/SENet.mxnet)
+
+**Competitive Inner-Imaging Squeeze and Excitation for Residual Network**
+
+- arxiv: [https://arxiv.org/abs/1807.08920](https://arxiv.org/abs/1807.08920)
+- github: [https://github.com/scut-aitcm/CompetitiveSENet](https://github.com/scut-aitcm/CompetitiveSENet)
 
 ## ImageNet Projects
 
@@ -1233,6 +1247,32 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.12549](https://arxiv.org/abs/1805.12549)
 
+**Evenly Cascaded Convolutional Networks**
+
+[https://arxiv.org/abs/1807.00456](https://arxiv.org/abs/1807.00456)
+
+**SGAD: Soft-Guided Adaptively-Dropped Neural Network**
+
+[https://arxiv.org/abs/1807.01430](https://arxiv.org/abs/1807.01430)
+
+**Explainable Neural Computation via Stack Neural Module Networks**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.08556](https://arxiv.org/abs/1807.08556)
+
+**Rank-1 Convolutional Neural Network**
+
+[https://arxiv.org/abs/1808.04303](https://arxiv.org/abs/1808.04303)
+
+**Neural Network Encapsulation**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1808.03749](https://arxiv.org/abs/1808.03749)
+
+**Penetrating the Fog: the Path to Efficient CNN Models**
+
+[https://arxiv.org/abs/1810.04231](https://arxiv.org/abs/1810.04231)
+
 ## Convolutions / Filters
 
 **Warped Convolutions: Efficient Invariance to Spatial Transformations**
@@ -1285,6 +1325,17 @@ with fast exact probabilistic inference over many layers."
 **Targeted Kernel Networks: Faster Convolutions with Attentive Regularization**
 
 [https://arxiv.org/abs/1806.00523](https://arxiv.org/abs/1806.00523)
+
+**An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution**
+
+- intro: 1Uber AI Labs & Uber Technologies
+- arxiv: [https://arxiv.org/abs/1807.03247](https://arxiv.org/abs/1807.03247)
+- github: [https://github.com/mkocabas/CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch)
+- youtube: [https://www.youtube.com/watch?v=8yFQc6elePA](https://www.youtube.com/watch?v=8yFQc6elePA)
+
+**Network Decoupling: From Regular to Depthwise Separable Convolutions**
+
+[https://arxiv.org/abs/1808.05517](https://arxiv.org/abs/1808.05517)
 
 ## Highway Networks
 
@@ -1361,6 +1412,11 @@ with fast exact probabilistic inference over many layers."
 - intro: Johns Hopkins University & Shanghai University
 - arxiv: [https://arxiv.org/abs/1805.06447](https://arxiv.org/abs/1805.06447)
 
+**DeSTNet: Densely Fused Spatial Transformer Networks**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.04050](https://arxiv.org/abs/1807.04050)
+
 ## FractalNet
 
 **FractalNet: Ultra-Deep Neural Networks without Residuals**
@@ -1373,7 +1429,7 @@ with fast exact probabilistic inference over many layers."
 - github: [https://github.com/edgelord/FractalNet](https://github.com/edgelord/FractalNet)
 - github(Keras): [https://github.com/snf/keras-fractalnet](https://github.com/snf/keras-fractalnet)
 
-## Architecture Search for Convolutional Neural Networks
+## Neural Architecture Search
 
 **Neural Architecture Search with Reinforcement Learning**
 
@@ -1450,6 +1506,47 @@ with fast exact probabilistic inference over many layers."
 - arxiv: [https://arxiv.org/abs/1806.09055](https://arxiv.org/abs/1806.09055)
 - gtihub: [https://github.com/quark0/darts](https://github.com/quark0/darts)
 
+**Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search**
+
+- intro: ICML 2018 AutoML Workshop. University of Freiburg
+- arxiv: [https://arxiv.org/abs/1807.06906](https://arxiv.org/abs/1807.06906)
+
+**Efficient Progressive Neural Architecture Search**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1808.00391](https://arxiv.org/abs/1808.00391)
+
+**Reinforced Evolutionary Neural Architecture Search**
+
+[https://arxiv.org/abs/1808.00193](https://arxiv.org/abs/1808.00193)
+
+**Teacher Guided Architecture Search**
+
+[https://arxiv.org/abs/1808.01405](https://arxiv.org/abs/1808.01405)
+
+**BlockQNN: Efficient Block-wise Neural Network Architecture Generation**
+
+[https://arxiv.org/abs/1808.05584](https://arxiv.org/abs/1808.05584)
+
+**Neural Architecture Search: A Survey**
+
+- intro: Bosch Center for Artificial Intelligence & University of Freiburg
+- arxiv: [https://arxiv.org/abs/1808.05377](https://arxiv.org/abs/1808.05377)
+
+**Searching for Efficient Multi-Scale Architectures for Dense Image Prediction**
+
+- intro: NIPS 2018. Google Inc.
+- arxiv: [https://arxiv.org/abs/1809.04184](https://arxiv.org/abs/1809.04184)
+
+**NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search**
+
+- arxiv: [https://arxiv.org/abs/1810.03522](https://arxiv.org/abs/1810.03522)
+- gtihub: [https://github.com/ianwhale/nsga-net](https://github.com/ianwhale/nsga-net)
+
+**Graph HyperNetworks for Neural Architecture Search**
+
+[https://arxiv.org/abs/1810.05749](https://arxiv.org/abs/1810.05749)
+
 ## Graph Convolutional Networks
 
 **Learning Convolutional Neural Networks for Graphs**
@@ -1522,6 +1619,14 @@ with fast exact probabilistic inference over many layers."
 **Learning Graph While Training: An Evolving Graph Convolutional Neural Network**
 
 [https://arxiv.org/abs/1708.04675](https://arxiv.org/abs/1708.04675)
+
+**Graph Attention Networks**
+
+- intro: ICLR 2018
+- intro: University of Cambridge & Centre de Visio per Computador, UAB & Montreal Institute for Learning Algorithms
+- project page: [http://petar-v.com/GAT/](http://petar-v.com/GAT/)
+- arxiv: [https://arxiv.org/abs/1710.10903](https://arxiv.org/abs/1710.10903)
+- github: [https://github.com/PetarV-/GAT](https://github.com/PetarV-/GAT)
 
 **Residual Gated Graph ConvNets**
 
@@ -1617,6 +1722,16 @@ with fast exact probabilistic inference over many layers."
 **Batch Normalization in the final layer of generative networks**
 
 [https://arxiv.org/abs/1805.07389](https://arxiv.org/abs/1805.07389)
+
+**Deep Structured Generative Models**
+
+- intro: Tsinghua University
+- arxiv: [https://arxiv.org/abs/1807.03877](https://arxiv.org/abs/1807.03877)
+
+**VFunc: a Deep Generative Model for Functions**
+
+- intro: ICML 2018 workshop on Prediction and Generative Modeling in Reinforcement Learning. Microsoft Research & McGill University
+- arxiv: [https://arxiv.org/abs/1807.04106](https://arxiv.org/abs/1807.04106)
 
 # Deep Learning and Robots
 
@@ -2230,6 +2345,21 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1805.09474](https://arxiv.org/abs/1805.09474)
 
+**BAM: Bottleneck Attention Module**
+
+- intro: BMVC 2018 (oral). Lunit Inc. & Adobe Research
+- arxiv: [https://arxiv.org/abs/1807.06514](https://arxiv.org/abs/1807.06514)
+
+**CBAM: Convolutional Block Attention Module**
+
+- intro: ECCV 2018. Lunit Inc. & Adobe Research
+- arxiv: [https://arxiv.org/abs/1807.06521](https://arxiv.org/abs/1807.06521)
+
+**Scale equivariance in CNNs with vector fields**
+
+- intro: ICML/FAIM 2018 workshop on Towards learning with limited labels: Equivariance, Invariance, and Beyond (oral presentation)
+- arxiv: [https://arxiv.org/abs/1807.11783](https://arxiv.org/abs/1807.11783)
+
 ## Tutorials and Surveys
 
 **A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas**
@@ -2480,6 +2610,11 @@ with fast exact probabilistic inference over many layers."
 - intro: CMU
 - arxiv: [https://arxiv.org/abs/1805.07641](https://arxiv.org/abs/1805.07641)
 
+**Multi-Adversarial Domain Adaptation**
+
+- intro: AAAI 2018 Oral.
+- arxiv: [https://arxiv.org/abs/1809.02176](https://arxiv.org/abs/1809.02176)
+
 ## Embedding
 
 **Learning Deep Embeddings with Histogram Loss**
@@ -2499,11 +2634,28 @@ with fast exact probabilistic inference over many layers."
 
 [https://arxiv.org/abs/1806.01531](https://arxiv.org/abs/1806.01531)
 
+**Learning to Learn from Web Data through Deep Semantic Embeddings**
+
+- intro: ECCV MULA Workshop 2018
+- arxiv: [https://arxiv.org/abs/1808.06368](https://arxiv.org/abs/1808.06368)
+
+**Heated-Up Softmax Embedding**
+
+[https://arxiv.org/abs/1809.04157](https://arxiv.org/abs/1809.04157)
+
 ## Regression
 
 **A Comprehensive Analysis of Deep Regression**
 
 [https://arxiv.org/abs/1803.08450](https://arxiv.org/abs/1803.08450)
+
+**Neural Motifs: Scene Graph Parsing with Global Context**
+
+- intro: CVPR 2018. University of Washington
+- project page: [http://rowanzellers.com/neuralmotifs/](http://rowanzellers.com/neuralmotifs/)
+- arxiv: [https://arxiv.org/abs/1711.06640](https://arxiv.org/abs/1711.06640)
+- github: [https://github.com/rowanz/neural-motifs](https://github.com/rowanz/neural-motifs)
+- demo: [https://rowanzellers.com/scenegraph2/](https://rowanzellers.com/scenegraph2/)
 
 ## CapsNets
 

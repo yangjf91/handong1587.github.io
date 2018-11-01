@@ -134,6 +134,11 @@ date: 2015-10-09
 - intro: LIRIS & Facebook AI Research
 - arxiv: [https://arxiv.org/abs/1806.06157](https://arxiv.org/abs/1806.06157)
 
+**Video Time: Properties, Encoders and Evaluation**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.06980](https://arxiv.org/abs/1807.06980)
+
 # Video Classification
 
 **Large-scale Video Classification with Convolutional Neural Networks**
@@ -268,6 +273,41 @@ date: 2015-10-09
 
 - arxiv: [https://arxiv.org/abs/1711.09125](https://arxiv.org/abs/1711.09125)
 - github: [https://github.com/wanglimin/ARTNet](https://github.com/wanglimin/ARTNet)
+
+**Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification**
+
+- intro: ECCV 2018. Google Research & University of California San Diego
+- arxiv: [https://arxiv.org/abs/1712.04851](https://arxiv.org/abs/1712.04851)
+
+**Long Activity Video Understanding using Functional Object-Oriented Network**
+
+[https://arxiv.org/abs/1807.00983](https://arxiv.org/abs/1807.00983)
+
+**Deep Architectures and Ensembles for Semantic Video Classification**
+
+[https://arxiv.org/abs/1807.01026](https://arxiv.org/abs/1807.01026)
+
+**Deep Discriminative Model for Video Classification**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.08259](https://arxiv.org/abs/1807.08259)
+
+**Deep Video Color Propagation**
+
+- intro: BMVC 2018
+- arxuv: [https://arxiv.org/abs/1808.03232](https://arxiv.org/abs/1808.03232)
+
+**Non-local NetVLAD Encoding for Video Classification**
+
+- intro: ECCV 2018 workshop on YouTube-8M Large-Scale Video Understanding
+- intro: Tencent AI Lab & Fudan University
+- arxiv: [https://arxiv.org/abs/1810.00207](https://arxiv.org/abs/1810.00207)
+
+**Learnable Pooling Methods for Video Classification**
+
+- intro: Youtube 8M ECCV18 Workshop
+- arxiv: [https://arxiv.org/abs/1810.00530](https://arxiv.org/abs/1810.00530)
+- github: [https://github.com/pomonam/LearnablePoolingMethods](https://github.com/pomonam/LearnablePoolingMethods)
 
 ## Action Detection / Activity Recognition
 
@@ -549,6 +589,10 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 [https://arxiv.org/abs/1805.08162](https://arxiv.org/abs/1805.08162)
 
+**Where and When to Look? Spatio-temporal Attention for Action Recognition in Videos**
+
+[https://arxiv.org/abs/1810.04511](https://arxiv.org/abs/1810.04511)
+
 ### Projects
 
 **A Torch Library for Action Recognition and Detection Using CNNs and LSTMs**
@@ -575,6 +619,11 @@ extract saptio-temporal features to represent the video using the CNNs."
 
 - intro: Activity Recognition Algorithms for the Charades Dataset
 - github: [https://github.com/gsig/charades-algorithms](https://github.com/gsig/charades-algorithms)
+
+**NonLocalNetwork and Sequeeze-Excitation Network**
+
+- intro: MXNet implementation of Non-Local and Squeeze-Excitation network
+- github: [https://github.com/WillSuen/NonLocalandSEnet](https://github.com/WillSuen/NonLocalandSEnet)
 
 # Event Recognition
 
@@ -837,6 +886,16 @@ alleviates the problem of video browsing, editing and indexing.
 
 [https://arxiv.org/abs/1805.10538](https://arxiv.org/abs/1805.10538)
 
+**Video Summarisation by Classification with Deep Reinforcement Learning**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.03089](https://arxiv.org/abs/1807.03089)
+
+**Query-Conditioned Three-Player Adversarial Network for Video Summarization**
+
+- intro: BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.06677](https://arxiv.org/abs/1807.06677)
+
 # Video Highlight Detection
 
 **Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders**
@@ -892,6 +951,10 @@ alleviates the problem of video browsing, editing and indexing.
 **Rethinking Spatiotemporal Feature Learning For Video Understanding**
 
 [https://arxiv.org/abs/1712.04851](https://arxiv.org/abs/1712.04851)
+
+**Hierarchical Video Understanding**
+
+[https://arxiv.org/abs/1809.03316](https://arxiv.org/abs/1809.03316)
 
 # Challenges
 

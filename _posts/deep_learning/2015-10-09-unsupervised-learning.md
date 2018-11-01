@@ -175,6 +175,30 @@ Auto-encoder
 - arxiv: [https://arxiv.org/abs/1803.01449](https://arxiv.org/abs/1803.01449)
 - github: [https://github.com/shahsohil/DCC](https://github.com/shahsohil/DCC)
 
+**Learning to Cluster**
+
+- openreview: [https://openreview.net/forum?id=HkWTqLsIz](https://openreview.net/forum?id=HkWTqLsIz)
+- github: [https://github.com/kutoga/learning2cluster](https://github.com/kutoga/learning2cluster)
+
+**Learning Neural Models for End-to-End Clustering**
+
+- intro: ANNPR
+- arxiv: [https://arxiv.org/abs/1807.04001](https://arxiv.org/abs/1807.04001)
+
+**Deep Clustering for Unsupervised Learning of Visual Features**
+
+- intro: ECCV 2018
+- arxiv: [https://arxiv.org/abs/1807.05520](https://arxiv.org/abs/1807.05520)
+
+**Improving Image Clustering With Multiple Pretrained CNN Feature Extractors**
+
+- intro: Poster presentation at BMVC 2018
+- arxiv: [https://arxiv.org/abs/1807.07760](https://arxiv.org/abs/1807.07760)
+
+**Deep clustering: On the link between discriminative models and K-means**
+
+[https://arxiv.org/abs/1810.04246](https://arxiv.org/abs/1810.04246)
+
 # Auto-encoder
 
 **Auto-Encoding Variational Bayes**
@@ -318,6 +342,12 @@ testing it on the MNIST handwritten digits data.
 **DAQN: Deep Auto-encoder and Q-Network**
 
 [https://arxiv.org/abs/1806.00630](https://arxiv.org/abs/1806.00630)
+
+**Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer**
+
+- intro: Google Brain
+- arxiv: [https://arxiv.org/abs/1807.07543](https://arxiv.org/abs/1807.07543)
+- github: [https://github.com/brain-research/acai](https://github.com/brain-research/acai)
 
 # RBM (Restricted Boltzmann Machine)
 
